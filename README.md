@@ -46,9 +46,6 @@ The analysis is conducted using Minitab, applying regression models, ANOVA, and 
 - Microsoft Excel (Data Preparation)
 - GitHub (Version Control & Documentation)
 
----
-
-## 📁 Project Structure
 
 ## 📈 Key Findings (Example)
 - Flow velocity significantly increases pressure drop
