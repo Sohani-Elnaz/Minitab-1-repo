@@ -49,3 +49,24 @@ The analysis is conducted using Minitab, applying regression models, ANOVA, and 
 ---
 
 ## 📁 Project Structure
+
+## 📈 Key Findings (Example)
+- Flow velocity significantly increases pressure drop
+- Larger capsule sizes increase system resistance
+- Increased spacing improves flow efficiency
+- Failure probability increases at higher velocities
+
+---
+## 📌 Applications
+- Pipeline transport systems
+- Oil & gas industry
+- Capsule-based material transport
+- Fluid mechanics research
+
+---
+
+## 📚 Future Work
+- Include CFD simulation results
+- Expand dataset with more experimental runs
+- Apply machine learning models for prediction
+- Optimize system design using advanced DOE
